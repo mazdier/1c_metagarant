@@ -18,8 +18,8 @@
       <file leaf-file-name="1c_ajax_product_tab.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/include/1c_ajax_product_tab.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1377">
-              <caret line="207" column="32" lean-forward="false" selection-start-line="207" selection-start-column="32" selection-end-line="207" selection-end-column="32" />
+            <state relative-caret-position="-2108">
+              <caret line="32" column="55" lean-forward="true" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
               <folding>
                 <marker date="1540296160000" expanded="true" signature="6746:6795" ph="SELECT * FRO... 1c_product_table" />
                 <marker date="1540296160000" expanded="true" signature="7077:7126" ph="SELECT * FRO... 1c_product_table" />
@@ -118,12 +118,12 @@
       <updated>1540364170582</updated>
       <workItem from="1540364171924" duration="212000" />
       <workItem from="1540364415109" duration="482000" />
-      <workItem from="1540364920791" duration="974000" />
+      <workItem from="1540364920791" duration="1638000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1668000" />
+    <option name="totallyTimeSpent" value="2332000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -177,8 +177,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/include/1c_ajax_product_tab.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1377">
-          <caret line="207" column="32" lean-forward="false" selection-start-line="207" selection-start-column="32" selection-end-line="207" selection-end-column="32" />
+        <state relative-caret-position="-2108">
+          <caret line="32" column="55" lean-forward="true" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
           <folding>
             <marker date="1540296160000" expanded="true" signature="6746:6795" ph="SELECT * FRO... 1c_product_table" />
             <marker date="1540296160000" expanded="true" signature="7077:7126" ph="SELECT * FRO... 1c_product_table" />
