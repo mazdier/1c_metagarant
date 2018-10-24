@@ -1,0 +1,80 @@
+Date:Sat, 03 Jun 2017 13:55:41 +0300
+Array
+(
+    [0] => Start
+    [1] => Step DiscountCatalogMigratorrun
+    [2] => 
+)
+
+
+Date:Sat, 03 Jun 2017 13:55:41 +0300
+Array
+(
+    [0] => Start
+    [1] => Step DiscountCatalogMigratormoveDiscounts
+    [2] => 
+)
+
+
+Date:Sat, 03 Jun 2017 13:55:41 +0300
+Array
+(
+    [0] => finished
+    [1] => Step DiscountCatalogMigratormoveDiscounts
+    [2] => 
+)
+
+
+Date:Sat, 03 Jun 2017 13:55:41 +0300
+Array
+(
+    [0] => Start
+    [1] => Step DiscountCatalogMigratormoveCoupons
+    [2] => 
+)
+
+
+Date:Sat, 03 Jun 2017 13:55:41 +0300
+Array
+(
+    [0] => finished
+    [1] => Step DiscountCatalogMigratormoveCoupons
+    [2] => 
+)
+
+
+Date:Sat, 03 Jun 2017 13:55:41 +0300
+Array
+(
+    [0] => Start
+    [1] => Step DiscountCatalogMigratorfillShortDescription
+    [2] => 
+)
+
+
+Date:Sat, 03 Jun 2017 13:55:41 +0300
+Array
+(
+    [0] => finished
+    [1] => Step DiscountCatalogMigratorfillShortDescription
+    [2] => 
+)
+
+
+Date:Sat, 03 Jun 2017 13:55:41 +0300
+Array
+(
+    [0] => finished
+    [1] => Step DiscountCatalogMigratorrun
+    [2] => 
+)
+
+
+Date:Sat, 03 Jun 2017 13:55:54 +0300
+Array
+(
+    [0] => Skip
+    [1] => Step DiscountCatalogMigratorrun
+)
+
+

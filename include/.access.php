@@ -1,0 +1,13 @@
+<?
+$PERM["1c_bd_product.php"]["2"]="R";
+$PERM["test_spisky.php"]["10"]="X";
+$PERM["test_spisky.php"]["13"]="X";
+$PERM["test_spisky.php"]["16"]="X";
+$PERM["test_spisky.php"]["*"]="R";
+$PERM["1c_test_contragent_out.php"]["2"]="R";
+$PERM["1c_ajax_main.php"]["2"]="R";
+$PERM["1c_ajax_invoce.php"]["2"]="R";
+$PERM["1c_ajax_product.php"]["2"]="R";
+$PERM["1c_contragent_out.php"]["2"]="R";
+$PERM["minsk.json"]["2"]="R";
+?>

@@ -1,0 +1,141 @@
+.block_infin {
+    left: 76%;
+    position: fixed;
+    top: 22%;
+    width: 300px;
+    padding: 1%;
+    z-index: 100;
+}
+
+.crm-right-block_inf {
+    padding: 0%;
+    padding-top: 8%;
+    padding-left: 24%;
+    background-color: #fff;
+    border: 1px solid;
+    border-color: #bcd0d5 #b9cdd3 #b2c6cc;
+    border-radius: 3px;
+    -webkit-box-shadow: 0 1px 2px #dae0e0;
+    box-shadow: 0 1px 2px #dae0e0;
+    margin: 0 0 12px 0;
+}
+
+.dva {
+    display: inline-block;
+    max-width: 160px;
+    margin-left: -11px;
+    overflow: hidden;
+    padding: 0 11px;
+    position: relative;
+    white-space: nowrap;
+}
+
+.odin {
+    color: #000;
+    font-size: 26px;
+    font-family: "OpenSans-Light", sans-serif;
+    margin: -9px 0 0;
+    padding: 0;
+}
+
+.odin_zagol {
+    color: #000;
+    font-size: 29px;
+    font-family: "OpenSans-Light", sans-serif;
+    margin: -9px 0 0;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    font-weight: 500;
+}
+
+.odin_zagol_comment {
+    color: #000;
+    font-size: 20px;
+    font-family: "OpenSans-Light", sans-serif;
+    margin: 8px 0 6px;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    font-weight: 500;
+    margin-left: -13%;
+}
+
+.odin_min {
+    color: #000;
+    font-size: 14px;
+    font-family: "OpenSans-Light", sans-serif;
+}
+
+.img_logo_inf {
+    -moz-background-size: 100%; /* Firefox 3.6+ */
+    -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+    -o-background-size: 100%; /* Opera 9.6+ */
+    background-size: 100%; /* Современные браузеры */
+    border-radius: 50%;
+    display: inline-block;
+    height: 150px;
+    margin: 11px 15px 14px 0;
+    vertical-align: middle;
+    width: 150px;
+}
+.img_logo_inf_new {
+    background: url("img/hidef-avatar.png") no-repeat  #535c6a;
+    -moz-background-size: 100%; /* Firefox 3.6+ */
+    -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+    -o-background-size: 100%; /* Opera 9.6+ */
+    background-size: 100%; /* Современные браузеры */
+    border-radius: 50%;
+    display: inline-block;
+    height: 150px;
+    margin: 11px 15px 14px 0;
+    vertical-align: middle;
+    width: 150px;
+}
+
+.comment {
+    border: 1px solid #e4e4e4;
+    margin-left: -48px;
+    min-width: 245px;
+    min-height: 150px;
+    border: 1px solid;
+    border-color: #bcd0d5 #b9cdd3 #b2c6cc;
+    resize: none;
+}
+
+.comment_new {
+    border: 1px solid #e4e4e4;
+    margin-left: -48px;
+    min-width: 245px;
+    min-height: 150px;
+    border: 1px solid;
+    border-color: #bcd0d5 #b9cdd3 #b2c6cc;
+    resize: none;
+}
+
+.but_call {
+    margin-left: -11%;
+}
+
+.btn-entity {
+    padding-left: 13px!important;
+    display: inline-table!important;
+    margin-top: 10px!important;
+}
+.crm-entity-list {
+    height: inherit!important;
+    display: block!important;
+    padding-bottom: 10px!important;
+}
+.btn-entity-active {
+    background-color: #e3ebed!important;
+    background-image: -webkit-linear-gradient(top, #dde7e9, #e9eff1)!important;
+    background-image: -moz-linear-gradient(top, #dde7e9, #e9eff1)!important;
+    background-image: -ms-linear-gradient(top, #dde7e9, #e9eff1)!important;
+    background-image: -o-linear-gradient(top, #dde7e9, #e9eff1)!important;
+    background-image: linear-gradient(to bottom, #dde7e9, #e9eff1)!important;
+    -webkit-box-shadow: inset 0 1px 1px #bbc3c4!important;
+    box-shadow: inset 0 1px 1px #bbc3c4!important;
+    border-color: #abb2b4 #cad1d3 #e0e6e8!important;
+    border-radius: 3px!important;
+    color: #2f3941!important;
+    cursor: default!important;
+}

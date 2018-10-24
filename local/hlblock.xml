@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hiblock>
+	<hiblock>
+		<id>3</id>
+		<name>CallRelations</name>
+		<table_name>bo_call_relations</table_name>
+	</hiblock>
+	<langs>
+	</langs>
+	<fields>
+		<field>
+			<id>100</id>
+			<entity_id>HLBLOCK_3</entity_id>
+			<field_name>UF_INFINITY_USER_ID</field_name>
+			<user_type_id>string</user_type_id>
+			<xml_id />
+			<sort>100</sort>
+			<multiple>N</multiple>
+			<mandatory>N</mandatory>
+			<show_filter>N</show_filter>
+			<show_in_list>Y</show_in_list>
+			<edit_in_list>Y</edit_in_list>
+			<is_searchable>N</is_searchable>
+			<settings>
+				<size>20</size>
+				<rows>1</rows>
+				<regexp />
+				<min_length>0</min_length>
+				<max_length>0</max_length>
+				<default_value />
+			</settings>
+			<edit_form_label>
+				<en>Infinity user id</en>
+				<ru>ID пользователя в infinity</ru>
+			</edit_form_label>
+			<list_column_label>
+				<en>Infinity user id</en>
+				<ru>ID пользователя в infinity</ru>
+			</list_column_label>
+			<list_filter_label>
+				<en>Infinity user id</en>
+				<ru>ID пользователя в infinity</ru>
+			</list_filter_label>
+			<error_message>
+				<en />
+				<ru />
+			</error_message>
+			<help_message>
+				<en />
+				<ru />
+			</help_message>
+			<base_type>string</base_type>
+		</field>
+		<field>
+			<id>101</id>
+			<entity_id>HLBLOCK_3</entity_id>
+			<field_name>UF_INFINITY_CALL_ID</field_name>
+			<user_type_id>string</user_type_id>
+			<xml_id />
+			<sort>100</sort>
+			<multiple>N</multiple>
+			<mandatory>N</mandatory>
+			<show_filter>N</show_filter>
+			<show_in_list>Y</show_in_list>
+			<edit_in_list>Y</edit_in_list>
+			<is_searchable>N</is_searchable>
+			<settings>
+				<size>20</size>
+				<rows>1</rows>
+				<regexp />
+				<min_length>0</min_length>
+				<max_length>0</max_length>
+				<default_value />
+			</settings>
+			<edit_form_label>
+				<en>Infinity call id</en>
+				<ru>ID звонка в инфинити</ru>
+			</edit_form_label>
+			<list_column_label>
+				<en>Infinity call id</en>
+				<ru>ID звонка в инфинити</ru>
+			</list_column_label>
+			<list_filter_label>
+				<en>Infinity call id</en>
+				<ru>ID звонка в инфинити</ru>
+			</list_filter_label>
+			<error_message>
+				<en />
+				<ru />
+			</error_message>
+			<help_message>
+				<en />
+				<ru />
+			</help_message>
+			<base_type>string</base_type>
+		</field>
+		<field>
+			<id>102</id>
+			<entity_id>HLBLOCK_3</entity_id>
+			<field_name>UF_INFINITY_A_FILE</field_name>
+			<user_type_id>string</user_type_id>
+			<xml_id />
+			<sort>100</sort>
+			<multiple>N</multiple>
+			<mandatory>N</mandatory>
+			<show_filter>N</show_filter>
+			<show_in_list>Y</show_in_list>
+			<edit_in_list>Y</edit_in_list>
+			<is_searchable>N</is_searchable>
+			<settings>
+				<size>20</size>
+				<rows>1</rows>
+				<regexp />
+				<min_length>0</min_length>
+				<max_length>0</max_length>
+				<default_value />
+			</settings>
+			<edit_form_label>
+				<en>First record file</en>
+				<ru>Первый файл записи</ru>
+			</edit_form_label>
+			<list_column_label>
+				<en>First record file</en>
+				<ru>Первый файл записи</ru>
+			</list_column_label>
+			<list_filter_label>
+				<en>First record file</en>
+				<ru>Первый файл записи</ru>
+			</list_filter_label>
+			<error_message>
+				<en />
+				<ru />
+			</error_message>
+			<help_message>
+				<en />
+				<ru />
+			</help_message>
+			<base_type>string</base_type>
+		</field>
+		<field>
+			<id>103</id>
+			<entity_id>HLBLOCK_3</entity_id>
+			<field_name>UF_INFINITY_B_FILE</field_name>
+			<user_type_id>string</user_type_id>
+			<xml_id />
+			<sort>100</sort>
+			<multiple>N</multiple>
+			<mandatory>N</mandatory>
+			<show_filter>N</show_filter>
+			<show_in_list>Y</show_in_list>
+			<edit_in_list>Y</edit_in_list>
+			<is_searchable>N</is_searchable>
+			<settings>
+				<size>20</size>
+				<rows>1</rows>
+				<regexp />
+				<min_length>0</min_length>
+				<max_length>0</max_length>
+				<default_value />
+			</settings>
+			<edit_form_label>
+				<en>Second record file</en>
+				<ru>Второй файл записи</ru>
+			</edit_form_label>
+			<list_column_label>
+				<en>Second record file</en>
+				<ru>Второй файл записи</ru>
+			</list_column_label>
+			<list_filter_label>
+				<en>Second record file</en>
+				<ru>Второй файл записи</ru>
+			</list_filter_label>
+			<error_message>
+				<en />
+				<ru />
+			</error_message>
+			<help_message>
+				<en />
+				<ru />
+			</help_message>
+			<base_type>string</base_type>
+		</field>
+		<field>
+			<id>104</id>
+			<entity_id>HLBLOCK_3</entity_id>
+			<field_name>UF_ACTIVITY_ID</field_name>
+			<user_type_id>string</user_type_id>
+			<xml_id />
+			<sort>100</sort>
+			<multiple>N</multiple>
+			<mandatory>N</mandatory>
+			<show_filter>N</show_filter>
+			<show_in_list>Y</show_in_list>
+			<edit_in_list>Y</edit_in_list>
+			<is_searchable>N</is_searchable>
+			<settings>
+				<size>20</size>
+				<rows>1</rows>
+				<regexp />
+				<min_length>0</min_length>
+				<max_length>0</max_length>
+				<default_value />
+			</settings>
+			<edit_form_label>
+				<en>Activity ID</en>
+				<ru>ID звонка в CRM</ru>
+			</edit_form_label>
+			<list_column_label>
+				<en>Activity ID</en>
+				<ru>ID звонка в CRM</ru>
+			</list_column_label>
+			<list_filter_label>
+				<en>Activity ID</en>
+				<ru>ID звонка в CRM</ru>
+			</list_filter_label>
+			<error_message>
+				<en />
+				<ru />
+			</error_message>
+			<help_message>
+				<en />
+				<ru />
+			</help_message>
+			<base_type>string</base_type>
+		</field>
+	</fields>
+</hiblock>

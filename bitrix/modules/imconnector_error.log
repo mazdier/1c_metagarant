@@ -1,0 +1,625 @@
+
+------------------------
+2018.03.12 11:11:55
+Array
+(
+    [message] => Hash is empty
+    [code] => HASH_EMPTY
+    [params] => Array
+        (
+        )
+
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/input.php
+    [method] => Bitrix\ImConnector\Input::authorize
+    [line] => 76
+)
+
+------------------------
+
+------------------------
+2018.03.12 11:11:55
+Array
+(
+    [message] => Не указана корректная команда
+    [code] => IMCONNECTOR_NOT_SPECIFIED_CORRECT_COMMAND
+    [params] => Array
+        (
+            [$command] => 
+            [$connector] => 
+            [$line] => 
+            [$data] => Array
+                (
+                )
+
+        )
+
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/input/router.php
+    [method] => Bitrix\ImConnector\Input\Router::receiving
+    [line] => 33
+)
+
+------------------------
+
+------------------------
+2018.03.12 11:12:08
+Array
+(
+    [message] => Hash is empty
+    [code] => HASH_EMPTY
+    [params] => Array
+        (
+        )
+
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/input.php
+    [method] => Bitrix\ImConnector\Input::authorize
+    [line] => 76
+)
+
+------------------------
+
+------------------------
+2018.03.12 11:12:08
+Array
+(
+    [message] => Не указана корректная команда
+    [code] => IMCONNECTOR_NOT_SPECIFIED_CORRECT_COMMAND
+    [params] => Array
+        (
+            [$command] => 
+            [$connector] => 
+            [$line] => 
+            [$data] => Array
+                (
+                )
+
+        )
+
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/input/router.php
+    [method] => Bitrix\ImConnector\Input\Router::receiving
+    [line] => 33
+)
+
+------------------------
+
+------------------------
+2018.03.12 11:12:12
+Array
+(
+    [message] => Hash is empty
+    [code] => HASH_EMPTY
+    [params] => Array
+        (
+        )
+
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/input.php
+    [method] => Bitrix\ImConnector\Input::authorize
+    [line] => 76
+)
+
+------------------------
+
+------------------------
+2018.03.12 11:12:12
+Array
+(
+    [message] => Не указана корректная команда
+    [code] => IMCONNECTOR_NOT_SPECIFIED_CORRECT_COMMAND
+    [params] => Array
+        (
+            [$command] => 
+            [$connector] => 
+            [$line] => 
+            [$data] => Array
+                (
+                )
+
+        )
+
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/input/router.php
+    [method] => Bitrix\ImConnector\Input\Router::receiving
+    [line] => 33
+)
+
+------------------------
+
+------------------------
+2018.03.12 11:12:18
+Array
+(
+    [message] => Hash is empty
+    [code] => HASH_EMPTY
+    [params] => Array
+        (
+        )
+
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/input.php
+    [method] => Bitrix\ImConnector\Input::authorize
+    [line] => 76
+)
+
+------------------------
+
+------------------------
+2018.03.12 11:12:18
+Array
+(
+    [message] => Не указана корректная команда
+    [code] => IMCONNECTOR_NOT_SPECIFIED_CORRECT_COMMAND
+    [params] => Array
+        (
+            [$command] => 
+            [$connector] => 
+            [$line] => 
+            [$data] => Array
+                (
+                )
+
+        )
+
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/input/router.php
+    [method] => Bitrix\ImConnector\Input\Router::receiving
+    [line] => 33
+)
+
+------------------------
+
+------------------------
+2018.03.12 11:13:38
+Array
+(
+    [message] => Hash is empty
+    [code] => HASH_EMPTY
+    [params] => Array
+        (
+        )
+
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/input.php
+    [method] => Bitrix\ImConnector\Input::authorize
+    [line] => 76
+)
+
+------------------------
+
+------------------------
+2018.03.12 11:13:38
+Array
+(
+    [message] => Не указана корректная команда
+    [code] => IMCONNECTOR_NOT_SPECIFIED_CORRECT_COMMAND
+    [params] => Array
+        (
+            [$command] => 
+            [$connector] => 
+            [$line] => 
+            [$data] => Array
+                (
+                )
+
+        )
+
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/input/router.php
+    [method] => Bitrix\ImConnector\Input\Router::receiving
+    [line] => 33
+)
+
+------------------------
+
+------------------------
+2018.03.16 13:14:52
+Array
+(
+    [message] => 
+    [code] => CONNECTOR_SETTINGS_INCORRECT
+    [params] => 
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/converter.php
+    [method] => 
+    [line] => 64
+)
+
+------------------------
+
+------------------------
+2018.03.16 14:48:11
+Array
+(
+    [message] => 
+    [code] => CONNECTOR_SETTINGS_INCORRECT
+    [params] => 
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/converter.php
+    [method] => 
+    [line] => 64
+)
+
+------------------------
+
+------------------------
+2018.09.17 9:01:34
+Array
+(
+    [message] => 
+    [code] => CONNECTOR_MESSENGER_RETURNED_WITH_AN_ERROR
+    [params] => 
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/converter.php
+    [method] => 
+    [line] => 64
+)
+
+------------------------
+
+------------------------
+2018.09.18 9:23:01
+Array
+(
+    [message] => 
+    [code] => CONNECTOR_MESSENGER_RETURNED_WITH_AN_ERROR
+    [params] => 
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/converter.php
+    [method] => 
+    [line] => 64
+)
+
+------------------------
+
+------------------------
+2018.09.19 9:45:58
+Array
+(
+    [message] => 
+    [code] => CONNECTOR_MESSENGER_RETURNED_WITH_AN_ERROR
+    [params] => 
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/converter.php
+    [method] => 
+    [line] => 64
+)
+
+------------------------
+
+------------------------
+2018.09.20 10:12:26
+Array
+(
+    [message] => 
+    [code] => CONNECTOR_MESSENGER_RETURNED_WITH_AN_ERROR
+    [params] => 
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/converter.php
+    [method] => 
+    [line] => 64
+)
+
+------------------------
+
+------------------------
+2018.09.21 10:21:46
+Array
+(
+    [message] => 
+    [code] => CONNECTOR_MESSENGER_RETURNED_WITH_AN_ERROR
+    [params] => 
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/converter.php
+    [method] => 
+    [line] => 64
+)
+
+------------------------
+
+------------------------
+2018.09.24 9:04:32
+Array
+(
+    [message] => 
+    [code] => CONNECTOR_MESSENGER_RETURNED_WITH_AN_ERROR
+    [params] => 
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/converter.php
+    [method] => 
+    [line] => 64
+)
+
+------------------------
+
+------------------------
+2018.09.25 12:18:49
+Array
+(
+    [message] => 
+    [code] => CONNECTOR_MESSENGER_RETURNED_WITH_AN_ERROR
+    [params] => 
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/converter.php
+    [method] => 
+    [line] => 64
+)
+
+------------------------
+
+------------------------
+2018.09.25 18:24:14
+Array
+(
+    [message] => 
+    [code] => CONNECTOR_MESSENGER_RETURNED_WITH_AN_ERROR
+    [params] => 
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/converter.php
+    [method] => 
+    [line] => 64
+)
+
+------------------------
+
+------------------------
+2018.09.27 9:51:27
+Array
+(
+    [message] => 
+    [code] => CONNECTOR_MESSENGER_RETURNED_WITH_AN_ERROR
+    [params] => 
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/converter.php
+    [method] => 
+    [line] => 64
+)
+
+------------------------
+
+------------------------
+2018.09.28 9:55:42
+Array
+(
+    [message] => 
+    [code] => CONNECTOR_MESSENGER_RETURNED_WITH_AN_ERROR
+    [params] => 
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/converter.php
+    [method] => 
+    [line] => 64
+)
+
+------------------------
+
+------------------------
+2018.10.01 9:46:53
+Array
+(
+    [message] => 
+    [code] => CONNECTOR_MESSENGER_RETURNED_WITH_AN_ERROR
+    [params] => 
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/converter.php
+    [method] => 
+    [line] => 64
+)
+
+------------------------
+
+------------------------
+2018.10.02 10:41:47
+Array
+(
+    [message] => 
+    [code] => CONNECTOR_MESSENGER_RETURNED_WITH_AN_ERROR
+    [params] => 
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/converter.php
+    [method] => 
+    [line] => 64
+)
+
+------------------------
+
+------------------------
+2018.10.03 11:17:14
+Array
+(
+    [message] => 
+    [code] => CONNECTOR_MESSENGER_RETURNED_WITH_AN_ERROR
+    [params] => 
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/converter.php
+    [method] => 
+    [line] => 64
+)
+
+------------------------
+
+------------------------
+2018.10.04 12:10:05
+Array
+(
+    [message] => 
+    [code] => CONNECTOR_MESSENGER_RETURNED_WITH_AN_ERROR
+    [params] => 
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/converter.php
+    [method] => 
+    [line] => 64
+)
+
+------------------------
+
+------------------------
+2018.10.05 13:18:12
+Array
+(
+    [message] => 
+    [code] => CONNECTOR_MESSENGER_RETURNED_WITH_AN_ERROR
+    [params] => 
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/converter.php
+    [method] => 
+    [line] => 64
+)
+
+------------------------
+
+------------------------
+2018.10.08 9:19:46
+Array
+(
+    [message] => 
+    [code] => CONNECTOR_MESSENGER_RETURNED_WITH_AN_ERROR
+    [params] => 
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/converter.php
+    [method] => 
+    [line] => 64
+)
+
+------------------------
+
+------------------------
+2018.10.09 9:28:57
+Array
+(
+    [message] => 
+    [code] => CONNECTOR_MESSENGER_RETURNED_WITH_AN_ERROR
+    [params] => 
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/converter.php
+    [method] => 
+    [line] => 64
+)
+
+------------------------
+
+------------------------
+2018.10.10 11:21:05
+Array
+(
+    [message] => 
+    [code] => CONNECTOR_MESSENGER_RETURNED_WITH_AN_ERROR
+    [params] => 
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/converter.php
+    [method] => 
+    [line] => 64
+)
+
+------------------------
+
+------------------------
+2018.10.11 12:36:33
+Array
+(
+    [message] => 
+    [code] => CONNECTOR_MESSENGER_RETURNED_WITH_AN_ERROR
+    [params] => 
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/converter.php
+    [method] => 
+    [line] => 64
+)
+
+------------------------
+
+------------------------
+2018.10.12 13:41:49
+Array
+(
+    [message] => 
+    [code] => CONNECTOR_MESSENGER_RETURNED_WITH_AN_ERROR
+    [params] => 
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/converter.php
+    [method] => 
+    [line] => 64
+)
+
+------------------------
+
+------------------------
+2018.10.15 8:19:11
+Array
+(
+    [message] => 
+    [code] => CONNECTOR_MESSENGER_RETURNED_WITH_AN_ERROR
+    [params] => 
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/converter.php
+    [method] => 
+    [line] => 64
+)
+
+------------------------
+
+------------------------
+2018.10.15 8:19:41
+Array
+(
+    [message] => 
+    [code] => CONNECTOR_MESSENGER_RETURNED_WITH_AN_ERROR
+    [params] => 
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/converter.php
+    [method] => 
+    [line] => 64
+)
+
+------------------------
+
+------------------------
+2018.10.15 8:22:53
+Array
+(
+    [message] => 
+    [code] => CONNECTOR_MESSENGER_RETURNED_WITH_AN_ERROR
+    [params] => 
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/converter.php
+    [method] => 
+    [line] => 64
+)
+
+------------------------
+
+------------------------
+2018.10.15 12:17:15
+Array
+(
+    [message] => 
+    [code] => CONNECTOR_MESSENGER_RETURNED_WITH_AN_ERROR
+    [params] => 
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/converter.php
+    [method] => 
+    [line] => 64
+)
+
+------------------------
+
+------------------------
+2018.10.15 13:52:30
+Array
+(
+    [message] => 
+    [code] => CONNECTOR_MESSENGER_RETURNED_WITH_AN_ERROR
+    [params] => 
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/converter.php
+    [method] => 
+    [line] => 64
+)
+
+------------------------
+
+------------------------
+2018.10.16 14:18:00
+Array
+(
+    [message] => 
+    [code] => CONNECTOR_MESSENGER_RETURNED_WITH_AN_ERROR
+    [params] => 
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/converter.php
+    [method] => 
+    [line] => 64
+)
+
+------------------------
+
+------------------------
+2018.10.17 14:32:26
+Array
+(
+    [message] => 
+    [code] => CONNECTOR_MESSENGER_RETURNED_WITH_AN_ERROR
+    [params] => 
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/converter.php
+    [method] => 
+    [line] => 64
+)
+
+------------------------
+
+------------------------
+2018.10.19 11:10:41
+Array
+(
+    [message] => 
+    [code] => CONNECTOR_MESSENGER_RETURNED_WITH_AN_ERROR
+    [params] => 
+    [file] => /home/bitrix/www/bitrix/modules/imconnector/lib/converter.php
+    [method] => 
+    [line] => 64
+)
+
+------------------------

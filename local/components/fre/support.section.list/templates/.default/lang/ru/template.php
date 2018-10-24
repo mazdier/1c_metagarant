@@ -1,0 +1,3 @@
+<?
+$MESS['SUPPORT_SECTION_LIST_TEMPLATE_TITLE'] = 'Новости';
+?>

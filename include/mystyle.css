@@ -1,0 +1,27 @@
+
+::-moz-selection { background: transparent;}
+::selection {background: transparent;}
+
+
+
+.switchContainer{display: inline-block;filter: url("index.html#gooey");-webkit-filter: url("#gooey");left:50%;top:50%; cursor: pointer; transform: translate(-50%, -50%) scale(2);}
+.switchBg{width:60px;height: 7px;}
+.switchBtn{width: 30px;height: 30px;border-radius: 50%; display: inline-block; position: absolute; left: 0px; top: -12px; transform: translate3d(0,0,0);}
+
+.switchBg, .switchBtn{background: #5fd698; transition: 300ms all ease;}
+.switchContainer.switchOn .switchBtn, .switchContainer.switchOn .switchBg{background: #5fd698;}
+
+.switchContainer.switchOn .switchBtn{animation: switchOn 250ms linear forwards; }
+.switchContainer.switchOff .switchBtn{animation: switchOff 250ms linear forwards; }
+@keyframes switchOn { 
+  0%{transform: scale3d(1,1,1) translate3d(0px,0,0); transform-origin: left center;} 
+  40%{transform: scale3d(1.4,0.7,0) translate3d(20px,0,0); transform-origin: right center;}
+  70%{transform: scale3d(0.9,1.15,1) translate3d(33px,0,0); }
+  100%{transform: scale3d(1,1,1) translate3d(30px,0,0); }
+}
+@keyframes switchOff { 
+  0%{transform: scale3d(1,1,1) translate3d(30px,0,0); transform-origin: right center;} 
+  40%{transform: scale3d(1.4,0.7,0) translate3d(10px,0,0); transform-origin: right center;}
+  70%{transform: scale3d(0.9,1.15,1) translate3d(-3px,0,0); }
+  100%{transform: scale3d(1,1,1) translate3d(0px,0,0); }
+}

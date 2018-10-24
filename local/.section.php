@@ -1,0 +1,6 @@
+<?
+$sSectionName = "local";
+$arDirProperties = array(
+
+);
+?>
